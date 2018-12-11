@@ -7,6 +7,6 @@
 ![image](VGG_19_1.png)
   
 + Below is the test accuracy and loss of the three VGG network
-![image](VGG_test_accuracy.png.png)
-![image](VGG_test_loss.png.png)
+![image](VGG_test_accuracy.png)
+![image](VGG_test_loss.png)
 
