@@ -1,3 +1,3 @@
 ### Output folder
 
-The output directory contains analysis output, processed datasets, logs, or other processed things.
+VGG19 and VGG_16&14_normalized
