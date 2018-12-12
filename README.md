@@ -1,5 +1,8 @@
 # GR5242 Final Project <br>
 
+# Please access report through this link: https://docs.google.com/document/d/1vZJuP6cCw43J9asikQoB2q2AEsQDilBkyVxo2Uu2d14/edit?usp=sharing
+
+
 ## Team members:
 - Yang Chen (yc3335@columbia.edu)
 - 
