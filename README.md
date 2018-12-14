@@ -36,5 +36,6 @@ Please see each subfolder for a README file.
 
 
 Reference: 
-           +Model:https://github.com/BIGBALLON/cifar-10-cnn
-           +Last version:https://github.com/tianyiwangnova/Homework-at-Columbia-U
+           + Model:https://github.com/BIGBALLON/cifar-10-cnn
+           + Paper:http://www.columbia.edu/~kgh2122/papers/cifar.pdf
+           + Last version:https://github.com/tianyiwangnova/Homework-at-Columbia-U
