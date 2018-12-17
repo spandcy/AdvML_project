@@ -19,8 +19,7 @@ The **GOALS** of this project are to:
 - Compare different CNN architectures pros and cons
 
 **Tools:**
-- GPU-enabled Tensorflow
-- Colab
+- GPU-enabled Tensorflow,colab
 
 **Reproduce:**
 - Two main folder for reproducing, **Baseline** and **Improve_Architecutres**, all of them could be reproduce on colab
