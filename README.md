@@ -1,13 +1,10 @@
 # GR5242 Final Project <br>
 
-# Please access report through this link: https://docs.google.com/document/d/1vZJuP6cCw43J9asikQoB2q2AEsQDilBkyVxo2Uu2d14/edit?usp=sharing
-
-
 ## Team members:
 - Yang Chen (yc3335@columbia.edu)
-- 
-- 
--
+- Xinjian Hu (xh2339@columbia.edu)
+- Ziwei Guo (zg2278@columbia.edu)
+- Jianfeng Zhang (jz2857@columbia.edu)
 
 ## Overview
 The [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html) is an important image classification dataset. It consists of 60000 32x32 colour images in 10 classes (airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks), with 6000 images per class. There are 50000 training images and 10000 test images.<br>
