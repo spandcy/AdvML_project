@@ -23,7 +23,7 @@ The **GOALS** of this project are to:
 - Colab
 
 **Reproduce:**
-- Two main folder for reproducing, **Baseline** and **Architecutres**, all of them could be reproduce on colab
+- Two main folder for reproducing, **Baseline** and **Improve_Architecutres**, all of them could be reproduce on colab
 - Data file is the CIFAR-10 by keras
 - Output file contain the some of the captured images of tensorboard and the tensorboard event files
 - The pdf file on the main pages is the **report** of our whole project, please grade with that **pdf** thanks!
